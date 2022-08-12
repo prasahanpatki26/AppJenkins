@@ -2,7 +2,7 @@
 
 namespace MyCalc
 {
-    public class Class1
+    public class Calc
     {
         public int Add(int x, int y)
         {
